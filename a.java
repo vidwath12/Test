@@ -5,6 +5,9 @@ System.out.println("new Commit,just check it");
   System.out.println("change 1");
 System.out.println("change 2");
   System.out.println("change3");
+  
+  
+    System.out.println("Done with my changes");
 }
 
 }
